@@ -20,9 +20,17 @@ public class ejercicio3 {
 
 	      System.out.println("Su edad es: " + edad + " a√±os.");
 
+<<<<<<< HEAD
 	      	/*
 	      	 * Esta clase pide el aÒo
 	      	 */
+=======
+//hola mal amigo. 9.08
+>>>>>>> branch 'master' of https://github.com/victorvictorvk/ejercicio6.git
 	}
 
+	
+	/*
+	 * este cambio lo realizo a las 9:13 victor
+	 */
 }

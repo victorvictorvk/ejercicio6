@@ -20,7 +20,9 @@ public class ejercicio3 {
 
 	      System.out.println("Su edad es: " + edad + " aÃ±os.");
 
-
+	      	/*
+	      	 * Esta clase pide el año
+	      	 */
 	}
 
 }

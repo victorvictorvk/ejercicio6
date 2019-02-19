@@ -21,6 +21,7 @@ public class ejercicio3 {
 	      System.out.println("Su edad es: " + edad + " años.");
 
 //hola mal amigo. 9.08
+	      //adios malo 9.14
 	}
 
 }
